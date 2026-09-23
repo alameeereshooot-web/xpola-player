@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="beIN Sports",beIN Sport 1 FHD
+http://iptv.1stv.xyz:88/live/1stMovies/hTLVzVf4G5odv/716.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="beIN Sports",beIN Sport 1 HD
+http://iptv.1stv.xyz:88/live/1stMovies/hTLVzVf4G5odv/5192.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="beIN Sports",beIN Sport 1 HQ
+http://iptv.1stv.xyz:88/live/1stMovies/hTLVzVf4G5odv/5195.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="beIN Sports",beIN Sport 1 SD
+http://iptv.1stv.xyz:88/live/1stMovies/hTLVzVf4G5odv/1072.m3u8
